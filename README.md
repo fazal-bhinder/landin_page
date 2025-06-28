@@ -20,14 +20,14 @@ This project is a modern React (Next.js) component that includes:
 
 ## 📁 Folder Structure
 
-/project-root
-─ components/
-─ Section_10.tsx # Contains FAQ + Footer section
-─ public/
-─ styles/
-─ pages/
-─ index.tsx
-─ README.md
+project-root
+- components # Contains components 
+- Sections # Contains All the sections
+- public # Contains all the images
+- styles
+- pages
+- index.tsx
+- README.md
 
 ---
 
